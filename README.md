@@ -10,3 +10,6 @@
 060891665/060891665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer zj6oJTO059-VOe5VyuM5fHwUvV0ycc-KdoPdqB14" \
+     -H "Content-Type:application/json"
